@@ -1,0 +1,19 @@
+<resources>
+    <string name="favorite">Disukai</string>
+    <string name="delete_favorite">Hapus dari disukai</string>
+    <string name="add_favorite">Tambahkan ke Disukai</string>
+    <string name="empty_data">Data Kosong</string>
+
+    <string name="app_name">Resep Nusantara</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_favorite">Disukai</string>
+    <string name="menu_profile">Profile</string>
+    <string name="about_me">Tentang saya</string>
+    <string name="back">Kembali</string>
+    <string name="empty_favorite">Tidak ada list disukai.</string>
+    <string name="search_text">Masukan nama masakan</string>
+
+    <string name="title_home">Beranda</string>
+    <string name="email_author">a159bsx2583@bangkit.academy</string>
+    <string name="name_author">Septia Bela Pertiwi</string>
+</resources>
